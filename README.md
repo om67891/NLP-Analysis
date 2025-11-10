@@ -30,35 +30,37 @@ The dataset consists of 100+ real customer reviews scraped from Flipkart.
 
 # ✅ Visual Outputs
 
-### **Rating Distribution**
-![Rating Distribution](images/image1.png)
+Below are the visual results generated during the NLP analysis.
 
-### **Sentiment Distribution**
-![Sentiment Distribution](images/image2.png)
+### **Figure 1**
+![Figure 1](images/Image1.png)
 
-### **Word Cloud**
-![Word Cloud](images/image3.png)
+### **Figure 2**
+![Figure 2](images/Image2.png)
 
-### **Positive Word Cloud**
-![Positive Word Cloud](images/image4.png)
+### **Figure 3**
+![Figure 3](images/Image3.png)
 
-### **Negative Word Cloud**
-![Negative Word Cloud](images/image5.png)
+### **Figure 4**
+![Figure 4](images/Image4.png)
 
-### **Feature Mentions**
-![Feature Mentions](images/image6.png)
+### **Figure 5**
+![Figure 5](images/Image5.png)
 
-### **Rating vs Review Length Scatter**
-![Correlation Scatter](images/image7.png)
+### **Figure 6**
+![Figure 6](images/Image6.png)
 
-### **High vs Low Rating Boxplot**
-![Boxplot](images/image8.png)
+### **Figure 7**
+![Figure 7](images/Image7.png)
 
-### **Feature Mentions by Rating**
-![Feature by Rating](images/image9.png)
+### **Figure 8**
+![Figure 8](images/Image8.png)
 
-### **Overall Insights Summary Chart**
-![Summary Chart](images/image10.png)
+### **Figure 9**
+![Figure 9](images/Image9.png)
+
+### **Figure 10**
+![Figure 10](images/Image10.png)
 
 ---
 
